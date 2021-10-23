@@ -9,4 +9,8 @@ public class Calculadora {
     public Double cubo(Double numero) {
         return numero * numero * numero;
     }
+    
+    public Double cuatro(Double numero) {
+        return numero * numero * numero * numero;
+    }
 }
